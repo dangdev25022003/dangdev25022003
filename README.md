@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pham Hai Dang</h1>
 <h3 align="center">A AI engineer from Vietnam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dangdev25022003&label=Profile%20views&color=0e75b6&style=flat" alt="dangdev25022003" /> </p>
+<h2> </h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Technical Lead at <a href="https://fliki.ai/">Fliki AI
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+</em></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dangdev25022003" alt="dangdev25022003" /></a> </p>
+<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
 - 🔭 I’m currently working on [ekAI](https://ekgis.com.vn/)
 
@@ -14,7 +18,7 @@
 - 💬 Ask me about **AI,algorithms**
 
 - 📫 How to reach me **pdang0952@gmail.com**
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dangdev25022003" alt="dangdev25022003" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/pham hai dang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pham hai dang" height="30" width="40" /></a>
