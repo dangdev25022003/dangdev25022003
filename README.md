@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pham Hai Dang</h1>
-<h3 align="center">AI engineer from Vietnam</h3>
+<h1 align="center">Hi 👋, I'm Pham Hai Dang. AI engineer from Vietnam</h1>
 
 <h2> </h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
