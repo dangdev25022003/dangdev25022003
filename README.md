@@ -36,5 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dangdev25022003&show_icons=true&locale=en" alt="dangdev25022003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dangdev25022003&" alt="dangdev25022003" /></p> 
-
-thêm cho tôi thêm 1 số môi trường code ngoài kaggle
