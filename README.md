@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dangdev25022003](https://github.com/dangdev25022003)
 
-- 💬 Ask me about **AI,algorithms**
+- 💬 Ask me about **AI,algorithms** 
 
 - 📫 How to reach me **pdang0952@gmail.com**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dangdev25022003" alt="dangdev25022003" /></a> </p>
